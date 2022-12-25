@@ -2,7 +2,7 @@ let handler = async (m, { conn }) => {
 let info = `
 *${htki} VIRUS ${htka}*
           
- 🔥BY ᴹᴿ᭄ King Of Bear ×፝֟͜×🔥
+ 🔥BY FuadTzy🔥
           
                   
 –––––– *ᴋᴇʙɪᴊᴀᴋᴀɴ* ––––––
@@ -12,34 +12,36 @@ const sections = [
    {
     title: `✃ VIRTEX`,
 	rows: [
-	    {title: "😈Virtex 1", rowId: '.virtex1', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-	    {title: "😈Virtex 2", rowId: '.virtex2', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-	{title: "😈Virtex 3", rowId: '.virtex3', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-	{title: "😈Virtex 4", rowId: '.virtex4', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-	{title: "😈Virtex 5", rowId: '.virtex5', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-	{title: "😈Virtex 6", rowId: '.virtex6', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-    {title: "😈Virtex 7", rowId: '.virtex7', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-	{title: "😈Virtex 8", rowId: '.virtex8', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-	{title: "😈Virtex 9", rowId: '.virtex9', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-	{title: "😈Virtex 10", rowId: '.virtex10', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-	{title: "😈Virtex 11", rowId: '.virtex11', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-	{title: "😈Virtex 12", rowId: '.virtex12', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-	{title: "😈Virtex 13", rowId: '.virtex13', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-	{title: "😈Virtex 14", rowId: '.virtex14', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-    {title: "😈Virtex 15", rowId: '.virtex15', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-	{title: "😈Virtex 16", rowId: '.virtex16', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-	{title: "😈Virtex 17", rowId: '.virtex17', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-	{title: "😈Virtex 18", rowId: '.virtex18', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-	{title: "😈Virtex 19", rowId: '.virtex19', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-    {title: "😈Virtex 20", rowId: '.virtex20', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
+	    {title: "😈Virtex 1", rowId: '.virtex1', description: 'Created By ©Fuad' },
+	    {title: "😈Virtex 2", rowId: '.virtex2', description: 'Cteated By ©Fuad' },
+	{title: "😈Virtex 3", rowId: '.virtex3', description: 'Created By ©Fuad' },
+	{title: "😈Virtex 4", rowId: '.virtex4', description: 'Created By ©Fuad' },
+	{title: "😈Virtex 5", rowId: '.virtex5', description: 'Created By ©Fuad' },
+	{title: "😈Virtex 6", rowId: '.virtex6', description: 'Created By ©Fuad' },
+    {title: "😈Virtex 7", rowId: '.virtex7', description: 'Created By ©Fuad' },
+	{title: "😈Virtex 8", rowId: '.virtex8', description: 'Created By ©Fuad' },
+	{title: "😈Virtex 9", rowId: '.virtex9', description: 'Created By ©Fuad' },
+	{title: "😈Virtex 10", rowId: '.virtex10', description: 'Created By ©Fuad' },
+	{title: "😈Virtex 11", rowId: '.virtex11', description: 'Created By ©Fuad' },
+	{title: "😈Virtex 12", rowId: '.virtex12', description: 'Created By ©Fuad' },
+	{title: "😈Virtex 13", rowId: '.virtex13', description: 'Created By ©Fuad' },
+	{title: "😈Virtex 14", rowId: '.virtex14', description: 'Created By ©Fuad' },
+    {title: "😈Virtex 15", rowId: '.virtex15', description: 'Created By ©Fuad' },
+	{title: "😈Virtex 16", rowId: '.virtex16', description: 'Created By ©Fuad' },
+	{title: "😈Virtex 17", rowId: '.virtex17', description: 'Created By ©Fuad' },
+	{title: "😈Virtex 18", rowId: '.virtex18', description: 'Created By ©Fuad' },
+	{title: "😈Virtex 19", rowId: '.virtex19', description: 'Created By ©Fuad' },
+    {title: "😈Virtex 20", rowId: '.virtex20', description: 'Created By © Fuad' },
+  {title: "👺 Crash", rowId: '.sendbug', description: 'Created By © Fuad' },
+
 
 	]
     }, {
     title: `✃ INFO`,
 	rows: [
 	    {title: "🔥Download WhatsApp Imune", rowId: '.waantivirus', description: 'Download WhatsApp Kebal' },
-	    {title: "🔥Virus Troli", rowId: '.virustroli', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-	    {title: "🔥Virus Power", rowId: '.powerlist', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
+	    {title: "🔥Virus Troli", rowId: '.virustroli', description: 'Created By © Fuad' },
+	    {title: "🔥Virus Power", rowId: '.powerlist', description: 'Created By ©Fuad' },
 	    ]
         }, {
     title: `✃ BUY`,
