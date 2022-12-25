@@ -4,11 +4,10 @@ let text = `*SYARAT & KETENTUAN*
     
 
 📮 S&K
-1. Jangan diperjual belikan Script ini
+1. Buy Script 
 2. Jangan salah gunakan script ini!
 3. Jangan lupa Subscribe Youtube
-4. Jangan di per jual belikan
-• Jika ada eror di sc hub https://wa.me/628812743180
+4. Jika ada eror di sc hub https://wa.me/6283837709331
 
 --------Thanks to ✨---------
 Allah SWT
@@ -20,7 +19,7 @@ Adiwajshing
 Nurutomo
 BochilGaming`
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Script di sini', url: 'https://wa.me/628812743180'}},
+    {index: 1, urlButton: {displayText: 'Script di sini', url: 'https://wa.me/6283837709331?text=Bang,Mau,Beli,Esce'}},
 ]
 let tm = {
 text: text,
